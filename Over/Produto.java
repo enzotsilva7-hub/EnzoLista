@@ -26,7 +26,7 @@ class Main {
         System.out.println(p1);
         System.out.println(p2);
 
-        // achou caro pai? reclama com o Lula
-        // String Pool é uma área da memória onde o Java reutiliza strings literais para economizar memória e melhorar performance.
+        // achou caro pai? reclama com o Lule
+
     }
 }
